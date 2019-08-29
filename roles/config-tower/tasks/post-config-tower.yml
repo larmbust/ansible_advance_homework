@@ -4,6 +4,7 @@
   tower_project:
     name: "Three-Tier"
     description: "Three-Tier Application project"
+    local_path: "~/bad-ansible"
     organization: "default"
     state: present
     tower_config_file: "~/.tower_cli.cfg"
