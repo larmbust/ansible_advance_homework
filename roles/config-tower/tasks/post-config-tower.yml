@@ -4,7 +4,7 @@
     name: "Homework Assignment"
     description: "Three-Tier Application for homework project"
     scm_type: git
-    scm_url: https://github.com/larmbust/bad-ansible.git
+    scm_url: https://github.com/larmbust/ansible_advance_homework.git
     state: present
 
 - name: Machine Credentail to connect to workstation using openstack.pub
