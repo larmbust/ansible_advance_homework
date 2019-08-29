@@ -6,7 +6,7 @@
     description: "Three-Tier Application project"
     organization: "default"
     state: present
-    tower_config_file: "~/tower_cli.cfg"
+    tower_config_file: "~/.tower_cli.cfg"
 
 - name: Machine Credentail to connect to workstation using openstack.pub
   tower_credential:
