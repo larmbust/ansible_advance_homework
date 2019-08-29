@@ -1,6 +1,5 @@
-# - name: Create Homework Assignment project 
+- name: Create Homework Assignment project 
 # Use tower module or tower-cli to create Ansible Tower project. Name of the project is specifed in ./vars/main.yml
-- name: Add Homework Assignment project
   tower_project:
     name: "Homework Assignment"
     description: "Three-Tier Application for homework project"
