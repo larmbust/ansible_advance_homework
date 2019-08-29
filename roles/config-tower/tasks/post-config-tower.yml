@@ -3,7 +3,7 @@
   tower_project:
     name: "Homework Assignment"
     description: "Three-Tier Application for homework project"
-    local_path: "~/bad-ansible"
+#    local_path: "~/bad-ansible"
 #    organization: "default"
     state: present
 #    tower_config_file: "~/.tower_cli.cfg"
