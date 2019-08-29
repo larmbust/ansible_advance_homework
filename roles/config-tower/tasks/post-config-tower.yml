@@ -6,7 +6,6 @@
     scm_type: git
     scm_url: https://github.com/larmbust/bad-ansible.git
     state: present
-#    tower_config_file: "~/.tower_cli.cfg"
 
 - name: Machine Credentail to connect to workstation using openstack.pub
   tower_credential:
