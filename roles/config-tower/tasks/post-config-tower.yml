@@ -3,8 +3,8 @@
   tower_project:
     name: "Homework Assignment"
     description: "Three-Tier Application for homework project"
-#    local_path: "~/bad-ansible"
-#    organization: "default"
+    scm_type: git
+    scm_url: https://github.com/larmbust/bad-ansible.git
     state: present
 #    tower_config_file: "~/.tower_cli.cfg"
 
